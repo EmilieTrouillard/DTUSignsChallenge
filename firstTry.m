@@ -7,7 +7,7 @@ close all;
 validationSet = [1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63 65 67];
 %validationSet = [39 41 43 45 47 49 51 53 55 57 59 61 63 65 67];
 
-validationSet = [1];
+%validationSet = [1];
 %
 for N = 1:length(validationSet)
     % Current sign id
@@ -89,14 +89,16 @@ for N = 1:length(validationSet)
 
     %% Filter blobs on extent value
     rect_blobs = blob_features_selection(merge_blobs);
+    
+    final_blobs = bwlabel(bwconvhull(rect_blobs, 'objects'), 4);
     %%
     test = rgb2gray(RGBLabels);
-    diff = (rect_blobs > 0 & test == 255) | (rect_blobs == 0 & test ~= 255);
+    diff = (final_blobs > 0 & test == 255) | (final_blobs == 0 & test ~= 255);
 
     figure1=figure('Position', [100, 100, 1700, 1200]);
     subplot(2,2,1); imagesc(I);  title(sprintf('Input image %03d', nSign))
     subplot(2,2,2); imagesc(RGBLabels); axis image; title('Ground truth signs')
-    subplot(2,2,4); imagesc(label2rgb(rect_blobs)); title('Output')
+    subplot(2,2,4); imagesc(label2rgb(final_blobs)); title('Output')
     subplot(2,2,3); imagesc(diff); title('difference')
 
 end
