@@ -1,0 +1,174 @@
+str =
+
+    'Photo 1 Combined DICE score 0.911455 with 4 found labels. There are 2 GT labels'
+
+
+str =
+
+    'Photo 3 Combined DICE score 0.950583 with 34 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 5 Combined DICE score 0.962555 with 6 found labels. There are 2 GT labels'
+
+
+str =
+
+    'Photo 7 Combined DICE score 0.959074 with 3 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 9 Combined DICE score 0.638177 with 43 found labels. There are 4 GT labels'
+
+
+str =
+
+    'Photo 11 Combined DICE score 0.983576 with 1 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 13 Combined DICE score 0.933909 with 16 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 15 Combined DICE score 0 with 4 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 17 Combined DICE score 0.973635 with 20 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 19 Combined DICE score 0.948083 with 1 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 21 Combined DICE score 0.967282 with 4 found labels. There are 2 GT labels'
+
+
+str =
+
+    'Photo 23 Combined DICE score 0.979461 with 21 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 25 Combined DICE score 0.979017 with 13 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 27 Combined DICE score 0.976972 with 20 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 29 Combined DICE score 0.974824 with 2 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 31 Combined DICE score 0.968308 with 6 found labels. There are 2 GT labels'
+
+
+str =
+
+    'Photo 33 Combined DICE score 0.956941 with 3 found labels. There are 2 GT labels'
+
+
+str =
+
+    'Photo 35 Combined DICE score 0.48837 with 4 found labels. There are 4 GT labels'
+
+
+str =
+
+    'Photo 37 Combined DICE score 0.650474 with 2 found labels. There are 3 GT labels'
+
+
+str =
+
+    'Photo 39 Combined DICE score 0.985639 with 3 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 41 Combined DICE score 0.492156 with 1 found labels. There are 2 GT labels'
+
+
+str =
+
+    'Photo 43 Combined DICE score 0.986191 with 1 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 45 Combined DICE score 0.974702 with 11 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 47 Combined DICE score 0.989303 with 4 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 49 Combined DICE score 0.978636 with 2 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 51 Combined DICE score 0.985672 with 4 found labels. There are 3 GT labels'
+
+
+str =
+
+    'Photo 53 Combined DICE score 0.980141 with 2 found labels. There are 2 GT labels'
+
+
+str =
+
+    'Photo 55 Combined DICE score 0.976624 with 3 found labels. There are 2 GT labels'
+
+
+str =
+
+    'Photo 57 Combined DICE score 0.991412 with 13 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 59 Combined DICE score 0.903426 with 3 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 61 Combined DICE score 0.984732 with 9 found labels. There are 1 GT labels'
+
+
+str =
+
+    'Photo 63 Combined DICE score 0.489072 with 10 found labels. There are 4 GT labels'
+
+
+str =
+
+    'Photo 65 Combined DICE score 0.978258 with 3 found labels. There are 2 GT labels'
+
+
+str =
+
+    'Photo 67 Combined DICE score 0.311249 with 3 found labels. There are 2 GT labels'
+
+
+ans =
+
+    0.8591
+
